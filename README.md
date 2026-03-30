@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hud-Alfa](https://github.com/Hud-Alfa)
 
-- 💬 Ask me about **Python, C#**
-
 - 📫 How to reach me **ysrozdas1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
