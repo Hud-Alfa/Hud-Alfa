@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasir Hüdalfa</h1>
 <h3 align="center">Computer Engineer Student</h3>
 
-- 🌱 I’m currently learning **Cyber Security, Web**
+- 🌱 I’m currently learning **Cyber Security, Web, Mobil**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hud-Alfa](https://github.com/Hud-Alfa)
 
