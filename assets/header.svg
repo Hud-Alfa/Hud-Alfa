@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="270" viewBox="0 0 840 270">
+<defs>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="k"><rect x="1" y="1" width="838" height="268" rx="18"/></clipPath>
+  <pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" opacity=".045"/></pattern>
+</defs>
+<g clip-path="url(#k)">
+  <rect width="840" height="270" fill="#061219"/>
+  <circle cx="120" cy="40" r="170" fill="#56D0C8" opacity="0.55" filter="url(#b)"><animate attributeName="opacity" values="0.55;0.30;0.55" dur="7s" repeatCount="indefinite"/></circle><circle cx="720" cy="60" r="160" fill="#8B6CF6" opacity="0.5" filter="url(#b)"><animate attributeName="opacity" values="0.5;0.28;0.5" dur="9s" repeatCount="indefinite"/></circle><circle cx="430" cy="270" r="150" fill="#4F8DF7" opacity="0.4" filter="url(#b)"><animate attributeName="opacity" values="0.4;0.22;0.4" dur="8s" repeatCount="indefinite"/></circle>
+  <rect width="840" height="270" fill="url(#d)"/>
+</g>
+<rect x="1" y="1" width="838" height="268" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".09"/>
+
+<text x="420.0" y="64" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="11" letter-spacing="4" fill="#56D0C8" opacity=".85">COMPUTER ENGINEER · ISTANBUL</text>
+<text x="420.0" y="122" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF">Yasir Hüdalfa Özdaş</text>
+<text x="420.0" y="166" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="16" fill="#56D0C8" opacity="1">Full stack developer<animate attributeName="opacity" values="1;0;0;1" keyTimes="0.000;0.333;0.667;1" calcMode="discrete" dur="7.5s" repeatCount="indefinite"/></text><text x="420.0" y="166" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="16" fill="#56D0C8" opacity="0">Mobile developer<animate attributeName="opacity" values="0;1;0;0" keyTimes="0.000;0.333;0.667;1" calcMode="discrete" dur="7.5s" repeatCount="indefinite"/></text><text x="420.0" y="166" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="16" fill="#56D0C8" opacity="0">Security researcher<animate attributeName="opacity" values="0;0;1;0" keyTimes="0.000;0.333;0.667;1" calcMode="discrete" dur="7.5s" repeatCount="indefinite"/></text>
+<rect x="136.1" y="200" width="151.6" height="28" rx="14" fill="#0E2129" stroke="#56D0C8" stroke-opacity=".35"/>
+<circle cx="152.1" cy="214" r="3.5" fill="#56D0C8"/>
+<text x="163.1" y="218.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="12" fill="#D5E6EE">React Native apps</text>
+<rect x="297.7" y="200" width="128.7" height="28" rx="14" fill="#0E2129" stroke="#4F8DF7" stroke-opacity=".35"/>
+<circle cx="313.7" cy="214" r="3.5" fill="#4F8DF7"/>
+<text x="324.7" y="218.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="12" fill="#D5E6EE">Full stack web</text>
+<rect x="436.3" y="200" width="163.7" height="28" rx="14" fill="#0E2129" stroke="#E2669A" stroke-opacity=".35"/>
+<circle cx="452.3" cy="214" r="3.5" fill="#E2669A"/>
+<text x="463.3" y="218.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="12" fill="#D5E6EE">Application security</text>
+<rect x="610.1" y="200" width="93.9" height="28" rx="14" fill="#0E2129" stroke="#E9A23B" stroke-opacity=".35"/>
+<circle cx="626.1" cy="214" r="3.5" fill="#E9A23B"/>
+<text x="637.1" y="218.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif" font-size="12" fill="#D5E6EE">IoT · AI</text>
+
+</svg>

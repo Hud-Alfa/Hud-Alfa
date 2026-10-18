@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="304" viewBox="0 0 840 304">
+<defs>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="k"><rect x="1" y="1" width="838" height="302" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#k)">
+  <rect width="840" height="304" fill="#050E14"/>
+  <circle cx="760" cy="304" r="140" fill="#56D0C8" opacity=".18" filter="url(#b)"/>
+  <rect width="840" height="38" fill="#0A1A22"/>
+</g>
+<rect x="1" y="1" width="838" height="302" rx="16" fill="none" stroke="#ffffff" stroke-opacity=".09"/>
+<line x1="1" y1="38" x2="839" y2="38" stroke="#ffffff" stroke-opacity=".07"/>
+<circle cx="24" cy="19" r="5.5" fill="#FF5F57"/><circle cx="43" cy="19" r="5.5" fill="#FEBC2E"/><circle cx="62" cy="19" r="5.5" fill="#28C840"/>
+<text x="420.0" y="23.5" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="11.5" fill="#718BA2">yasir@hudalfa: ~</text>
+<clipPath id="c0"><rect x="28" y="58" height="22" width="0">
+  <animate attributeName="width" values="0;0;65;65;0" keyTimes="0;0.037;0.081;0.963;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#c0)"><text x="28" y="74" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="13.5" fill="#56D0C8">$ <tspan fill="#E6F1F5">whoami</tspan></text></g>
+<text x="28" y="99" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="13.5" fill="#A9BED2" opacity="0">hüdalfa · computer engineer · istanbul
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.100;0.110;0.963;1" dur="16.0s" repeatCount="indefinite"/></text>
+<clipPath id="c2"><rect x="28" y="108" height="22" width="0">
+  <animate attributeName="width" values="0;0;122;122;0" keyTimes="0;0.163;0.225;0.963;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#c2)"><text x="28" y="124" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="13.5" fill="#56D0C8">$ <tspan fill="#E6F1F5">cat focus.txt</tspan></text></g>
+<text x="28" y="149" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="13.5" fill="#A9BED2" opacity="0">mobile  ·  full stack  ·  application security
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.244;0.254;0.963;1" dur="16.0s" repeatCount="indefinite"/></text>
+<clipPath id="c4"><rect x="28" y="158" height="22" width="0">
+  <animate attributeName="width" values="0;0;211;211;0" keyTimes="0;0.312;0.400;0.963;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#c4)"><text x="28" y="174" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="13.5" fill="#56D0C8">$ <tspan fill="#E6F1F5">ls ~/projects --featured</tspan></text></g>
+<text x="28" y="199" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="13.5" fill="#4F8DF7" opacity="0">StarCAD/  ALDOS/  Not-LAN/  BegBegDm/  Su-Vakti/
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.419;0.429;0.963;1" dur="16.0s" repeatCount="indefinite"/></text>
+<clipPath id="c6"><rect x="28" y="208" height="22" width="0">
+  <animate attributeName="width" values="0;0;170;170;0" keyTimes="0;0.487;0.569;0.963;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#c6)"><text x="28" y="224" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="13.5" fill="#56D0C8">$ <tspan fill="#E6F1F5">./hunt --bug-bounty</tspan></text></g>
+<text x="28" y="249" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="13.5" fill="#E2669A" opacity="0">▸ recon → test → report ··· hunting
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.588;0.598;0.963;1" dur="16.0s" repeatCount="indefinite"/></text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.625;0.628;0.963;1" dur="16.0s" repeatCount="indefinite"/>
+<text x="28" y="274" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="13.5" fill="#56D0C8">$ <tspan fill="#56D0C8">▌<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text></g>
+</svg>

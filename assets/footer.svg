@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="64" viewBox="0 0 840 64">
+<defs>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="k"><rect x="1" y="1" width="838" height="62" rx="18"/></clipPath>
+  <pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" opacity=".045"/></pattern>
+</defs>
+<g clip-path="url(#k)">
+  <rect width="840" height="64" fill="#061219"/>
+  <circle cx="420" cy="64" r="160" fill="#56D0C8" opacity="0.35" filter="url(#b)"><animate attributeName="opacity" values="0.35;0.19;0.35" dur="8s" repeatCount="indefinite"/></circle>
+  <rect width="840" height="64" fill="url(#d)"/>
+</g>
+<rect x="1" y="1" width="838" height="62" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".09"/>
+
+<text x="420.0" y="38" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="11" letter-spacing="3" fill="#718BA2">YASIR HÜDALFA ÖZDAŞ · BUILDING WITH CURIOSITY</text>
+
+</svg>

@@ -1,35 +1,60 @@
-<h1 align="center">Hi, I'm Yasir Hüdalfa Özdaş 👋</h1>
-<p align="center"><b>Full stack & mobile developer · Security researcher</b></p>
-
 <p align="center">
-  <a href="https://hudalfa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hudalfa.vercel.app-56D0C8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/h%C3%BCdalfa/"><img src="https://img.shields.io/badge/LinkedIn-Yasir%20H%C3%BCdalfa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ysrozdas1@gmail.com"><img src="https://img.shields.io/badge/Email-ysrozdas1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="assets/header.svg" alt="Yasir Hüdalfa Özdaş · Full stack developer · Mobile developer · Security researcher" width="100%" />
 </p>
 
-Computer engineer from Hitit University, based in Istanbul. I build cross-platform apps with React Native and full stack web products, and I work on application security alongside. Most recently I built **StarCAD**, a browser-based CAD editor for natural gas distribution companies, during my internship at Tekhnelogos.
+<p align="center">
+  <img src="assets/terminal.svg" alt="$ whoami → hüdalfa · computer engineer · istanbul" width="100%" />
+</p>
 
-- 🔭 **Right now:** getting my apps ready for Google Play
-- 🛡️ **Working on:** bug bounty and penetration testing on web and mobile targets
-- 💼 **Open to:** full-time roles in mobile development or full stack engineering
+<p align="center">
+  <img src="assets/stack.svg" alt="Tech stack: React Native, Expo, React, Next.js, Three.js, TypeScript, Kotlin, Jetpack Compose, C#, ASP.NET Core, Python, Firebase, PostgreSQL, SQL Server, SQLite, Redis, MinIO, Elasticsearch, Docker, Portainer, Git, Kali Linux, Raspberry Pi, RAG" width="100%" />
+</p>
 
-### Featured projects
+<p align="center">
+  <img src="assets/about.svg" alt="About: I build cross-platform apps with React Native and full stack web products, and work on application security alongside." width="100%" />
+</p>
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [StarCAD](https://github.com/Hud-Alfa/StarCAD) | Browser-based CAD editor for gas installations: 2D drafting, 3D and isometric views, project approval flow | React · Three.js · ASP.NET Core |
-| [ALDOS](https://github.com/Hud-Alfa/ALDOS) | Smart warehouse automation with QR-based location verification, web and mobile clients (graduation project) | React · Expo · Firebase |
-| [Not-LAN](https://github.com/Hud-Alfa/Not-LAN) | Note sharing and messaging platform for students: web, Android and iOS from one codebase | Expo · React Native · Firebase |
-| [Su-Vakti](https://github.com/Hud-Alfa/Su-Vakti) | Daily water tracking with reminders, quiet hours and a home screen widget | Kotlin · Jetpack Compose |
-| [Colon Cancer Detection](https://github.com/Hud-Alfa/colon-cancer-detection) | Pathology image classification: baseline CNN vs. transfer learning with ResNet50 | Python · CNN · ResNet50 |
-| [BegBegDm](https://begbegdm.vercel.app) | Multi-tenant tool that auto-replies to Instagram comments by DM, with keyword rules and an admin panel | Python · Meta Graph API |
+<p align="center">
+  <img src="assets/featured-title.svg" alt="Featured work" width="100%" />
+</p>
 
-More on my [portfolio](https://hudalfa.vercel.app).
+<p align="center">
+  <a href="https://github.com/Hud-Alfa/StarCAD"><img src="assets/card-starcad.svg" alt="StarCAD: browser-based CAD editor for gas installations" width="49%" /></a>
+  <a href="https://github.com/Hud-Alfa/ALDOS"><img src="assets/card-aldos.svg" alt="ALDOS: smart warehouse automation" width="49%" /></a>
+  <a href="https://github.com/Hud-Alfa/Not-LAN"><img src="assets/card-not-lan.svg" alt="Not-LAN: note sharing and messaging platform for students" width="49%" /></a>
+  <a href="https://begbegdm.vercel.app"><img src="assets/card-begbegdm.svg" alt="BegBegDm: Instagram comment to DM automation" width="49%" /></a>
+</p>
 
-### Tech stack
+<p align="center">
+  <sub>
+    Also: <a href="https://github.com/Hud-Alfa/Su-Vakti">Su-Vakti</a> (Kotlin · Jetpack Compose) ·
+    <a href="https://github.com/Hud-Alfa/colon-cancer-detection">Colon Cancer Detection</a> (CNN · ResNet50) ·
+    <a href="https://github.com/Hud-Alfa/local-foundry-rag">local-foundry-rag</a> (on-device RAG) ·
+    <a href="https://hudalfa.vercel.app">everything on my portfolio →</a>
+  </sub>
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,cs,js,ts,kotlin,react,nextjs,threejs,dotnet,firebase&perline=10" alt="Languages and frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,elasticsearch,docker,git,linux,kali,raspberrypi&perline=10" alt="Data, tools and security" />
+<br />
+
+<p align="center">
+  <img src="assets/stats.svg" alt="GitHub: 168 contributions, 19 public repositories, 13 projects on portfolio" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/snake.svg" alt="Snake eating my contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/now.svg" alt="Currently: shipping apps to Google Play, bug bounty, penetration testing, on-device RAG, open to mobile and full stack roles" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hud-Alfa"><img src="assets/btn-github.svg" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/h%C3%BCdalfa/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://hudalfa.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" /></a>
+  <a href="mailto:ysrozdas1@gmail.com"><img src="assets/btn-email.svg" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="" width="100%" />
 </p>

@@ -1,0 +1,42 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # her gün 03:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: GitHub istatistik paneli
+        run: python .github/scripts/stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Katkı yılanı
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#56D0C8&color_dots=#0E2129,#0E4A4A,#1F7A75,#3AA8A0,#56D0C8
+
+      - name: Değişiklikleri kaydet
+        run: |
+          cp dist/snake.svg assets/snake.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/snake.svg
+          git diff --cached --quiet || (git commit -m "Profil istatistikleri güncellendi" && git push)
