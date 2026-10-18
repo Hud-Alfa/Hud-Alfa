@@ -1,16 +1,35 @@
-<h1 align="center">Hi 👋, I'm Yasir Hüdalfa</h1>
-<h3 align="center">Computer Engineer Student</h3>
+<h1 align="center">Hi, I'm Yasir Hüdalfa Özdaş 👋</h1>
+<p align="center"><b>Full stack & mobile developer · Security researcher</b></p>
 
-- 🌱 I’m currently learning **Cyber Security, Web, Mobil**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Hud-Alfa](https://github.com/Hud-Alfa)
-
-- 📫 How to reach me **ysrozdas1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/h%C3%BCdalfa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir hüdalfa özdaş" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://hudalfa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hudalfa.vercel.app-56D0C8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/h%C3%BCdalfa/"><img src="https://img.shields.io/badge/LinkedIn-Yasir%20H%C3%BCdalfa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ysrozdas1@gmail.com"><img src="https://img.shields.io/badge/Email-ysrozdas1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Computer engineer from Hitit University, based in Istanbul. I build cross-platform apps with React Native and full stack web products, and I work on application security alongside. Most recently I built **StarCAD**, a browser-based CAD editor for natural gas distribution companies, during my internship at Tekhnelogos.
+
+- 🔭 **Right now:** getting my apps ready for Google Play
+- 🛡️ **Working on:** bug bounty and penetration testing on web and mobile targets
+- 💼 **Open to:** full-time roles in mobile development or full stack engineering
+
+### Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [StarCAD](https://github.com/Hud-Alfa/StarCAD) | Browser-based CAD editor for gas installations: 2D drafting, 3D and isometric views, project approval flow | React · Three.js · ASP.NET Core |
+| [ALDOS](https://github.com/Hud-Alfa/ALDOS) | Smart warehouse automation with QR-based location verification, web and mobile clients (graduation project) | React · Expo · Firebase |
+| [Not-LAN](https://github.com/Hud-Alfa/Not-LAN) | Note sharing and messaging platform for students: web, Android and iOS from one codebase | Expo · React Native · Firebase |
+| [Su-Vakti](https://github.com/Hud-Alfa/Su-Vakti) | Daily water tracking with reminders, quiet hours and a home screen widget | Kotlin · Jetpack Compose |
+| [Colon Cancer Detection](https://github.com/Hud-Alfa/colon-cancer-detection) | Pathology image classification: baseline CNN vs. transfer learning with ResNet50 | Python · CNN · ResNet50 |
+| [BegBegDm](https://begbegdm.vercel.app) | Multi-tenant tool that auto-replies to Instagram comments by DM, with keyword rules and an admin panel | Python · Meta Graph API |
+
+More on my [portfolio](https://hudalfa.vercel.app).
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cs,js,ts,kotlin,react,nextjs,threejs,dotnet,firebase&perline=10" alt="Languages and frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,elasticsearch,docker,git,linux,kali,raspberrypi&perline=10" alt="Data, tools and security" />
+</p>
